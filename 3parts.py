@@ -20,7 +20,8 @@ import textwrap, time, glob
 '''
 
 Author: Hazova N. 
-[Gusina Text Analyser]
+[Gusina Text Analyser: медленно, но верно]
+
 
 '''
 
