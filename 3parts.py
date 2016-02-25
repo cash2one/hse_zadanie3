@@ -19,7 +19,7 @@ import textwrap, time, glob
 
 '''
 
-Author: Hazova N.
+Author: Hazova N. 
 [Gusina Text Analyser]
 
 '''
