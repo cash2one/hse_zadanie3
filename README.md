@@ -1,3 +1,4 @@
+#####Обработанный корпус текстов из интернет - газеты BRIANSK.RU (Gusina Text Analyser)
 ######Источник: BRYANSK.RU
 https://yadi.sk/d/Fjcw48BKpVaDH
 
